@@ -70,10 +70,14 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  
 **Logic symbol & Truthtable**
 
+![alt text](<Screenshot 2025-11-21 220115.png>)
+
 **RTL realization Output:** 
 
 **RTL**
+![alt text](<Screenshot 2025-11-21 210704.png>)
+
 
 **Result:**
-
+Thus, the given logic functions are implemented using and their operations are verified using Verilog programming.
 
